@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1695247290 source:c:\users\arilson\documents\c++oo\poo\algoritimo_ava\main.cpp
+	<iostream>
+	"point2d.h"
+
+1695245462 source:c:\users\arilson\documents\c++oo\poo\algoritimo_ava\src\point2d.cpp
+	"point2d.h"
+
+1695245449 c:\users\arilson\documents\c++oo\poo\algoritimo_ava\include\point2d.h
+
+1695247290 source:c:\users\arilson\documents\c++\github\c--\classe em c++\main.cpp
+	<iostream>
+	"point2d.h"
+
+1695245449 c:\users\arilson\documents\c++\github\c--\classe em c++\include\point2d.h
+
+1695245462 source:c:\users\arilson\documents\c++\github\c--\classe em c++\src\point2d.cpp
+	"point2d.h"
+
